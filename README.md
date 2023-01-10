@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I´m Filipe Mota 👋
 
-<!--
-**Filipemtb/Filipemtb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About :tada:
 
-Here are some ideas to get you started:
+My name is Filipe Mota, I'm 17 years old. I was interested in the technology area in February 2022 and have been trying to learn. I am currently doing the Rocketseat Explorer trail which is a Fullstack course. I am very excited about this new phase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current stack :wrench:
+
+- Main language: `JavaScript`
+- Backend: `Nodejs`
+- Frontend: `HTML5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`
+
+I´m mostly active within the `Rocketseat Community`
+
+### Contacts :iphone:
+
+- Email: motaf2866@gmail.com
+
+- Linkedin: https://www.linkedin.com/in/filipe-mota-b15139231/
