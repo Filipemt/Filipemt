@@ -7,7 +7,7 @@ My name is Filipe Mota, I'm 17 years old. I was interested in the technology are
 ### Current stack :wrench:
 
 - Main language: `JavaScript`
-- Backend: `Nodejs`
+- Backend: `NodeJs`
 - Frontend: `HTML5`, `CSS3`, `JavaScript`
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
