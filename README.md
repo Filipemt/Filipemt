@@ -3,7 +3,7 @@
   
 - 😄 My name is Filipe Mota
 - ⚡ I´m 18 years old
-- 🌱 I'm currently studying web development on Rocketseat.
+- 🌱 I'm currently studying web development on Rocketseat/Udemy.
 
 ## 🔨 Tools and Technologies
 
