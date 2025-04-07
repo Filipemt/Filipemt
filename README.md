@@ -2,6 +2,10 @@
 
 ###
 
+<h3> Sobre mim</h3>
+
+Eu sou Filipe Mota, desenvolvedor, entusiasta por tecnologia.  Atualmente curso Ciência da computação e aplico meus conhecimentos em projetos back-end que unem teoria e a prática.
+
 <br clear="both">
 
 <div align="center">
